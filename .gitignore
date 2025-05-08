@@ -25,3 +25,4 @@ replay_pid*
 
 docker-compose.yml
 src/main/resources/application.properties
+build/resources/main/application.properties
